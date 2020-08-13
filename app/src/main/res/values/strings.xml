@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string name="error_message">Error to download please try again</string>
+</resources>
